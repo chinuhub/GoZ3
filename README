@@ -1,0 +1,9 @@
+1. Install z3 librarye by following the steps given below;
+
+a) clone the git repo https://github.com/mitchellh/go-z3
+
+b) Go to the directory where it is cloned, say it is named as go-z3. Run #make
+
+c) When finished, copy this directory (go-z3) in /usr/local/go/src
+
+d) Now this package is available, along with other Go packages, to be used in your program.
